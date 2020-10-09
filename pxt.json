@@ -1,0 +1,25 @@
+{
+    "name": "Prison Peril",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "color-coded-tilemap": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.2.6",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "pyprj",
+    "languageRestriction": "python-only"
+}
